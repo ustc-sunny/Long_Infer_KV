@@ -1,0 +1,6 @@
+torch>=1.12
+transformers>=4.24
+numpy
+tqdm
+pulp
+attrs

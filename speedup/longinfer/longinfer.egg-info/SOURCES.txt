@@ -1,0 +1,5 @@
+setup.py
+longinfer.egg-info/PKG-INFO
+longinfer.egg-info/SOURCES.txt
+longinfer.egg-info/dependency_links.txt
+longinfer.egg-info/top_level.txt
