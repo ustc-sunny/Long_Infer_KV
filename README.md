@@ -1,4 +1,4 @@
-# LongInfer: Efficient Long-Context LLM Inference with Adaptive KV Data Management on a Commodity GPU
+# LongInfer: Efficient Long-Context LLM Inference with Adaptive KV Data Extraction on a Commodity GPU
 
 ## Overview
 
