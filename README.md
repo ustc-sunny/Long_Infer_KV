@@ -4,7 +4,7 @@
 
 This repository contains the code of our paper "LongInfer: Efficient Long-Context LLM Inference with Adaptive KV Data Management on a Commodity GPU".
 
-![LongInfer](./figures/LongInfer.png)
+% ![LongInfer](./figures/LongInfer.png)
 
 ## Abstract
 
